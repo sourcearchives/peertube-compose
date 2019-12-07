@@ -1,3 +1,5 @@
+# This project has been moved to https://gitea.nutomic.com/nutomic/peertube-compose
+
 # Peertube setup with Ansible and Docker-Compose
 
 This repo lets you easily setup a Peertube server based on docker-compose.
