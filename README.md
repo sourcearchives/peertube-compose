@@ -1,4 +1,4 @@
-# This project has been moved to https://gitea.nutomic.com/nutomic/peertube-compose
+# This project has been moved to https://yerbamate.dev/nutomic/peertube-compose
 
 # Peertube setup with Ansible and Docker-Compose
 
